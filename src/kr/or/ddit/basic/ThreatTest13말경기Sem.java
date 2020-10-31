@@ -144,7 +144,6 @@ class GameSate extends Thread {
 				break;
 			}
 
-			// 빈줄 출력하기
 			for (int i = 1; i <= 15; i++) {
 				System.out.println();
 			}
